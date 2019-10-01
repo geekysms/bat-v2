@@ -1,0 +1,7 @@
+{
+  "name": "bat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
